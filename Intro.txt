@@ -41,3 +41,6 @@ modified file -> into the staged type -> commit
 
 ## way 2
 create a pull request: via git app
+
+## now the changes you made in the repo on main are not visible on the local branches
+## so use the pull request for that
