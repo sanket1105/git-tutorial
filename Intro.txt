@@ -23,3 +23,21 @@ modified file -> into the staged type -> commit
 ## git push origin main: push to the origin branch
 
 ###############################################################
+
+## BRANCH
+
+1. git branch:  to check branch
+2. git branch -M "" : to rename the branch
+3. git checkout <branch-name> : to navigate to a new branch
+4. git checkout -b <new-branch-name> : to create a new branch
+5. git branch -d <> : to delete branch
+
+############################################################
+
+## MERGING CODE
+
+1. git diff <branch name> : so it will create a difference between the current branch and the given name branch
+2. git merge <branch name> : merge with the current branch
+
+## way 2
+create a pull request: via git app
