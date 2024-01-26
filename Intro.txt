@@ -1,0 +1,13 @@
+modified file -> into the staged type -> commit
+
+## for commiting: add the files and then commit
+## git add . -> adds all the file
+
+###########################################################
+
+## git init: use to create a new git repo
+## git remote add origin <link> : add the github repo with name "origin"
+## git remote -v: to check the remote 
+## git branch: in what branch you are working
+## git branch -M main: to change the name of the branch to "main"
+## git push origin main: push to the origin branch
