@@ -34,6 +34,8 @@ modified file -> into the staged type -> commit
 
 ############################################################
 
+
+## kunal kushwaha tutorials
 ## MERGING CODE
 
 1. git diff <branch name> : so it will create a difference between the current branch and the given name branch
