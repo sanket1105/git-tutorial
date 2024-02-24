@@ -1,0 +1,48 @@
+modified file -> into the staged type -> commit
+
+## git add . -> adds all the file
+## git commit -m "":  for commiting: add the files and then commit
+## git push
+
+#########################################################
+## WORKFLOW
+
+1. make a git repo
+2. clone it
+3. make changes
+4. add all
+5. commit all with a message
+6. push
+###########################################################
+
+## git init: use to create a new git repo
+## git remote add origin <link> : add the github repo with name "origin"
+## git remote -v: to check the remote 
+## git branch: in what branch you are working
+## git branch -M main: to change the name of the branch to "main"
+## git push origin main: push to the origin branch
+
+###############################################################
+
+## BRANCH
+
+1. git branch:  to check branch
+2. git branch -M "" : to rename the branch
+3. git checkout <branch-name> : to navigate to a new branch
+4. git checkout -b <new-branch-name> : to create a new branch
+5. git branch -d <> : to delete branch
+
+############################################################
+
+
+## kunal kushwaha tutorials
+## MERGING CODE
+
+1. git diff <branch name> : so it will create a difference between the current branch and the given name branch
+2. git merge <branch name> : merge with the current branch
+
+## way 2
+create a pull request: via git app
+
+## now the changes you made in the repo on main are not visible on the local branches
+## so use the pull request for that
